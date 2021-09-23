@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @victoria-r
 - 👀 I’m interested in bioinformatics tools.
-- 🌱 I’m currently learning python and bash.
+- 🌱 I’m currently learning python, R, and bash.
 - 💞️ I’m looking to collaborate on anything bioinformatics-related. 
 - 📫 How to reach me... ask.
 
