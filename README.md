@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @victoria-r
-- 👀 I’m interested in different bioinformatics tools.
-- 🌱 I’m currently learning python, R, and bash.
-- 💞️ I’m looking to collaborate on anything bioinformatics-related. 
 - 📫 Reach me at liebschv@gmail.com. 
 
 <!---
